@@ -1,6 +1,6 @@
 # Next Word Prediction
-
-This is a simple Next Word Prediction project built using Python and Jupyter Notebook.
+L
+This is a simple Next Word Prediction project built using Python Pytorch Library in Jupyter Notebook.
 
 ## Files
 - next_word_prediction.ipynb — Main notebook containing the model code.
